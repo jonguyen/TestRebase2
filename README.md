@@ -1,2 +1,2 @@
 # TestRebase2
-Initial
+First edit from Master
